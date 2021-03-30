@@ -1,0 +1,7 @@
+{
+   "name": "Google meet spam bot",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "A google meet spam bot that spams the chat",
+  "homepage_url": "https://github.com/justnothi/Google-meet-spam-bot"
+}
